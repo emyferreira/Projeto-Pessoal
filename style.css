@@ -1,28 +1,28 @@
 body {
-    background-color: #E6DDBC;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0e0e0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
 }
 header {
-    background-color: black;
-    border-bottom: 2px solid #DB5C01;
+    background-color: #e0e0e0;
+    border-bottom: .5px solid black;
     height: 90px;
 }
 .cabecalho {
     display: flex;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 20px;
     height: 50px;
-    background-color: black;
+    background-color: #e0e0e0;
     
 }
 .comeco {
     padding: 5px;
-    color: white;
-    margin-left: 80px;
-    font-size: 15px;
-    border: 1.2px solid white;
+    color: rgb(0, 0, 0);
+    margin-left: 60px;
+    font-size: 16px;
+    border: 1.2px solid rgb(0, 0, 0);
     width: 90px;
     display: flex;
     align-items: center;
@@ -32,23 +32,27 @@ header {
 .fim {
     display: flex;
     justify-content: end;
-    margin-left: 500px;
-    font-size: 10px;
+    margin-left: 450px;
+    font-size: 12px;
 
 }
 .fim img {
-    height: 40px;
+    height: 30px;
+    padding: 10px;
 }
 .menu {
+    margin: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     display: flex;
-    padding: 20px;
-    margin-left: 30px;
-    margin-top: 5px;
+    padding: 13px;
+    margin-top: 15px;
     font-size: 12px;
     align-items: center;
 }
 .reta {
-    border-left: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(0, 0, 0);
     height: 20px;
     margin-top: 20px;
 }
