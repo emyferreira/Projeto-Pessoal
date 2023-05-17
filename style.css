@@ -115,3 +115,54 @@ header {
     margin-top: 265%;
     margin-left: 70%;
 }
+.imgPlantaInvertida {
+    width: 11vw;
+    height: 28vh;
+    margin-top: 0;
+}
+.telaProjeto {
+    display: flex;
+    flex-direction: row;
+}
+.textosProjeto {
+    width: 85%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    padding: 8%;
+    margin-left: 7%;
+}
+.textosProjeto b {
+    width: 84%;
+    font-size: 40x;
+    color: black;
+}
+.textosProjeto p {
+    width: 40vw;
+    font-size: 25px;
+}
+.telaSobreMim {
+    margin-top: 15%;
+    display: flex;
+    flex-direction: row;
+}
+.textosSobreMim {
+    width: 25%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    padding: 8%;
+    margin-left: 16%;
+}
+.textosSobreMim b {
+    width: 74%;
+    font-size: 40x;
+    color: black;
+}
+.textosSobreMim p {
+    width: 30vw;
+    font-size: 25px;
+}
+.fotoEmily {
+    height: 60vh;
+}
