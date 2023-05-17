@@ -112,8 +112,7 @@ header {
 .imgPlanta {
     width: 11vw;
     height: 28vh;
-    margin-top: 265%;
-    margin-left: 70%;
+    margin-left: 88.6%;
 }
 .imgPlantaInvertida {
     width: 11vw;
@@ -142,7 +141,7 @@ header {
     font-size: 25px;
 }
 .telaSobreMim {
-    margin-top: 10%;
+    margin-top: 11%;
     display: flex;
     flex-direction: row;
 }
@@ -164,11 +163,12 @@ header {
     font-size: 25px;
 }
 .fotoEmily {
-    height: 70vh;
-    margin-top: 10%;
+    height: 60vh;
+    margin-top: 12%;
 }
 .plantaSobreMim {
     width: 11vw;
     height: 28vh;
     margin-top: 40%;
+    margin-left: 5%;
 }
