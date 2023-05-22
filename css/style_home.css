@@ -69,14 +69,14 @@ header {
 }
 
 .banner .container p {
-    font-size: 18px;
+    font-size: 17px;
     color: black;
     width: 310px;
     margin-top: 0;
     margin-bottom: 40px;
 }
 .botaoHome {
-    font-size: 17px;
+    font-size: 15px;
     width: 250px;
     height: 50px;
     border: 1px solid #e0e0e0;
@@ -98,15 +98,16 @@ header {
     margin-top: 8%;
 }
 .recomendacao a {
-    font-size: 13px;
+    font-size: 12px;
     width: 15vw;
     margin-left: 5%;
     text-align: center;
 }
 .recomendacao img {
-    width: 37vh;
-    height: 53vh;
+    width: 54vh;
+    height: 54vh;
     border-radius: 15px;
+    margin-top: 10%;
 
 } 
 .imgPlanta {
